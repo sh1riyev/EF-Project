@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{210D08E1-3730-4416-90E3-BBFDD307B58C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EntityFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityFramework/Controllers/SettingController.cs">
+    <Files>
+      <File FileName="EntityFramework/Controllers/SettingController.cs" Line="37" Column="33" />
+      <File FileName="EntityFramework/Program.cs" Line="7" Column="35" />
+      <File FileName="EntityFramework/Services/SettingService.cs" Line="37" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityFramework" expanded="True">
+            <Node name="EntityFramework" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SettingController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True">
+                <Node name="Exceptions" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
